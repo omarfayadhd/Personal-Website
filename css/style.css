@@ -1213,7 +1213,7 @@ footer {
   border-radius: 50%;
   display: inline-block;
   margin-top: 6rem;
-  background-image: url("/images/main.jpg");
+  background-image: url("/images/profile_pic.jpg");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
@@ -1234,7 +1234,7 @@ footer {
   border-radius: 50%;
   display: inline-block;
   
-  background-image: url("/images/main.jpg");
+  background-image: url("/images/profile_pic.jpg");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
