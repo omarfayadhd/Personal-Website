@@ -161,7 +161,7 @@ header {
 
 /*-- banner --*/
 .banner {
-  background: url(../images/profile_pic.webp) no-repeat 0px 0px;
+  background: url(../images/b1.webp) no-repeat 0px 0px;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -1230,7 +1230,7 @@ footer {
 */
 .circle{
 
-  background-image: url(/images/b1.webp);
+  background-image: url(/images/profile_pic.webp);
 width: 100%;
 border-radius: 50%;
 border: 2px solid #650000;
