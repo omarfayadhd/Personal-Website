@@ -161,7 +161,7 @@ header {
 
 /*-- banner --*/
 .banner {
-  background: url(../images/b1.jpg) no-repeat 0px 0px;
+  background: url(../images/b1.webp) no-repeat 0px 0px;
   background-size: cover;
   -webkit-background-size: cover;
   -moz-background-size: cover;
@@ -171,7 +171,7 @@ header {
   position: relative;
 }
 .banner-layer {
-  background: url(../images/layre.png) repeat;
+  background: url(../images/layer.webp) repeat;
   background: rgba(0, 0, 0, 0.5);
   min-height: 765px;
 }
@@ -1213,7 +1213,7 @@ footer {
   border-radius: 50%;
   display: inline-block;
   margin-top: 6rem;
-  background-image: url("/images/qvpn.png");
+  background-image: url("/images/profile_pic.webp");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
@@ -1234,7 +1234,7 @@ footer {
   border-radius: 50%;
   display: inline-block;
   
-  background-image: url("/images/profile_pic.jpg");
+  background-image: url("/images/profile_pic.webp");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
