@@ -1230,7 +1230,7 @@ footer {
 */
 .circle{
 
-  background-image: url(/images/profile_pic.webp);
+  background-image: url(../images/profile_pic.webp);
 width: 100%;
 border-radius: 50%;
 border: 2px solid #650000;
@@ -1254,7 +1254,7 @@ background-size: cover;
   background-color: #bbb;
   border-radius: 50%;
   display: inline-block;
-  background-image: url("/images/cpy.webp");
+  background-image: url("../images/cpy.webp");
   background-position: center; /* Center the image */
   background-repeat: no-repeat; /* Do not repeat the image */
   background-size: cover;
